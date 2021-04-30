@@ -23,7 +23,7 @@ afterEach(async (done) => {
   done();
 });
 
-it('O cliente deve receber a mensagem correta para o após sua conexão', (done) => {
+it('O cliente deve receber a mensagem correta após sua conexão', (done) => {
   const newId = Date.now();
 
   server = socketServer(http);
