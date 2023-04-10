@@ -1,5 +1,6 @@
 module.exports = {
   rootDir: "./src",
+  coverageDirectory: "../coverage",
   collectCoverageFrom: ["**/*.js"],
-  coverageDirectory: "../coverage"
+  coveragePathIgnorePatterns: ["./server.js"]
 };

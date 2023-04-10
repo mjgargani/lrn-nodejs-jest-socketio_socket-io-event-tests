@@ -1,6 +1,6 @@
 # socket-io-event-tests
 
-![thumbnail](thumbnail.gif)
+![thumbnail](thumbnail.webp)
 
 ## Descrição / Description
 
